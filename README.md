@@ -1,2 +1,2 @@
 # first_repo
-That is just for testing purpose and I am trying to understand about github function and how can i use for myself
+That's just for testing purpose and nothing then more. I am trying to understand about github function and how I can use for myself.
